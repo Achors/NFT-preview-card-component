@@ -1,0 +1,56 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@300;400;500;600;700;900&display=swap');
+
+* {
+font-size: 18px;
+background-color:hsl(217, 54%, 11%);
+color:  hsl(0, 0%, 100%);
+box-sizing: border-box;
+justify-content: center;
+font-family: ('https://fonts.google.com/specimen/Outfit');
+}
+.card {
+  margin: 50px;
+  padding: 200px;
+  font-size: 15px;
+  line-height: 20px;
+  max-width: 1440px;
+  width: 50%;
+  
+}
+.cardie {
+  background-color: hsl(216, 50%, 16%);
+  padding: 5px;
+  justify-content: center; 
+  border-radius: 20px; 
+}
+.img {
+  width: 100%;
+}
+.num {
+  font-size: 20px;
+  font-weight: 600px;
+  background-color: hsl(216, 50%, 16%);
+}
+.text {
+  font-weight: 300px;
+  color: hsl(215, 51%, 70%);
+  background-color: hsl(216, 50%, 16%);
+
+}
+.green {
+  font-weight: bold;
+  display: inline-flex;
+  color: hsl(178, 100%, 50%);
+  border-bottom: hsl(215, 32%, 27%) 1px;
+  background-color: hsl(216, 50%, 16%);
+}
+#green {
+  font-weight: 400;
+  color: hsl(215, 51%, 70%);
+  text-align: left;
+}
+.fig {
+  display: flex;
+  background-color: hsl(216, 50%, 16%);
+}
